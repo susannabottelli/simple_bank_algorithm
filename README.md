@@ -1,2 +1,2 @@
 # Simple bank Java algorithm (beginner)
-A simple Java algorithm for beginners to solve bank deposit and withdrawal.
+A beginner's algorithm in Java SE to solve bank deposit and withdrawal.
