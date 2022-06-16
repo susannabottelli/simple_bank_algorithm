@@ -27,7 +27,7 @@ public class DebitCard {
 			cc.withdrawFrom(-5000);
 		}
 		catch (IllegalArgumentException e){
-			System.out.println("WARNING! ACCESS DENIED. ou cannot withdraw a negative amount.");
+			System.out.println("WARNING! ACCESS DENIED. You cannot withdraw a negative amount.");
 		}
 		
 		//what happens if you try to withdraw more than you have
